@@ -470,16 +470,16 @@ label p{
     }
     .box-main h1 {
         width: 100%;
-        font-size: 70px;
+        font-size: 66px;
         position: absolute;
-        left: 50px;
-        margin-top: 180px;
+        left: 18px;
+        margin-top: 177px;
     }.box-main h3{
         width: 100%;
         position: absolute;
-        right:-193px;
-        margin-top: 237px;
-        font-size: 28px;
+        right:-157px;
+        margin-top: 231px;
+        font-size: 27px;
     }.box-main button{
         padding: 9px;
         margin-top: 307px;
