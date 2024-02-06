@@ -444,7 +444,7 @@ label p{
 
 
 /* RESPONSIVE */
-@media screen and (max-width:480px){
+@media screen and (max-width:420px){
     /* nav */
     .nav-box{
         padding: 25px;
@@ -461,6 +461,7 @@ label p{
 
     /* section 1 */
     .start-content{
+        background-image: url('img/responsive.png');
         height:100vh;
         padding: 10px;
     }
@@ -488,6 +489,15 @@ label p{
         font-size: 14px;
     }
     
+
+
+    .about-content{
+        height: 100vh;
+    }
     
+
+
+
+
     
 }
