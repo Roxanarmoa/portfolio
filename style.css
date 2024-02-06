@@ -447,36 +447,45 @@ label p{
 @media screen and (max-width:480px){
     /* nav */
     .nav-box{
+        padding: 25px;
         gap: 50px;
-    }
-    .nav-box p {
-        font-size: 7px;
+    }.nav-box p {
+        font-size: 15px;
     }.link-red img{
         width: 0px;
     }.flower-orange, .flower-orange-left{
-        width: 41px;
+        width: 58px;
         margin-top: -7px;
-        margin-inline: 4px;
+        margin-inline: -15px;
     }
 
     /* section 1 */
+    .start-content{
+        height:100vh;
+        padding: 10px;
+    }
+    
     .box-img img{
         width: 0px;
     }
-
     .box-main h1 {
-        width: 62%;
-        font-size: 45px;
+        width: 100%;
+        font-size: 70px;
         position: absolute;
-        left: 73px;
-        margin-top: -28px;
-        
+        left: 50px;
+        margin-top: 180px;
     }.box-main h3{
-        width: 62%;
+        width: 100%;
         position: absolute;
-        right:-36px;
-        margin-top: 5px;
-        font-size: 18px;
+        right:-193px;
+        margin-top: 237px;
+        font-size: 28px;
+    }.box-main button{
+        padding: 9px;
+        margin-top: 307px;
+        margin-right: 3px;
+        border-radius: 50px;
+        font-size: 14px;
     }
     
     
