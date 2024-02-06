@@ -444,7 +444,7 @@ label p{
 
 
 /* RESPONSIVE */
-@media screen and (max-width:390px){
+@media screen and (max-width:480px){
     /* nav */
     .nav-box{
         gap: 50px;
