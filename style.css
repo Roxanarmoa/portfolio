@@ -477,20 +477,21 @@ label p{
         margin: 0 auto;
     }.box-main h1 {
         width: 100%;
-        font-size: 45px;
+        font-size: 54px;
         position: absolute;
-        left: 50px;
-        margin-top: 126px;
+        left: 13px;
+        margin-top: 159px;
     }.box-main h3{
         width: 100%;
+        font-weight: lighter;
         position: absolute;
-        right:-150px;
-        margin-top: 164px;
-        font-size: 20px;
+        right:-93px;
+        margin-top: 206px;
+        font-size: 25px;
     }.box-main button{
         padding: 9px;
-        margin-top: 243px;
-        margin-right: 29px;
+        margin-top: 288px;
+        margin-right: 71px;
         border-radius: 50px;
         font-size: 13px;
     }
