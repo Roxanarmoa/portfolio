@@ -449,8 +449,8 @@ label p{
 @media screen and (max-width:420px){
     /* nav */
     .nav-box{
-        padding: 25px;
-        gap: 50px;
+        padding: 16px;
+        gap: 29px;
     }.nav-box p {
         font-size: 15px;
     }.link-red img{
@@ -480,18 +480,18 @@ label p{
         font-size: 54px;
         position: absolute;
         left: 13px;
-        margin-top: 159px;
+        margin-top: 273px;
     }.box-main h3{
         width: 100%;
         font-weight: lighter;
         position: absolute;
-        right:-93px;
-        margin-top: 195px;
+        right:-89px;
+        margin-top: 316px;
         font-size: 25px;
     }.box-main button{
         padding: 9px;
-        margin-top: 288px;
-        margin-right: 71px;
+        margin-top: 403px;
+        margin-right: 77px;
         border-radius: 50px;
         font-size: 13px;
     }
